@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TussleData
-- 👀 I’m interested in the application of machine learning in economics
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on the application of machine learning in economics
+- 👀 I’m interested in data engineering, visualization, and machine learning as well as econometric modeling.
+- 🌱 I’m currently a Ph.D. student in Economics, a holder of two master's degrees, one in economics and another one in big data analytics, and a BSc Honours in Economics.
+- 💞️ I’m looking to collaborate on data engineering, data visualizations, econometric and machine learning models.
 - 📫 How to reach me: tusmun93@gmail.com
 
 <!---
