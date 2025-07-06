@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TussleData
-- 👀 I’m interested in data engineering, visualization, and machine learning as well as econometric modeling.
-- 🌱 I’m currently a Ph.D. student in Economics, a holder of two master's degrees, one in economics and another one in big data analytics, and a BSc Honours in Economics.
-- 💞️ I’m looking to collaborate on data engineering, data visualizations, econometric and machine learning models.
+- 👀 I’m interested in data engineering, econometric modelling, climate modelling/simulations, machine learning and geospatial analysis and their applications in development economics.
+- 🌱 I’m currently a Ph.D. student in Economics at the University of Cape Town. I hold an MSc in Big Data Analytics, an MSc in Economics and a BSc Honours degree in Economics.
+- 💞️ I’m looking to collaborate on data engineering, data visualisations, econometric and machine learning models.
 - 📫 How to reach me: tusmun93@gmail.com
 
 <!---
